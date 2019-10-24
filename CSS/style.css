@@ -1,0 +1,89 @@
+* {
+    margin: 20px;
+    padding: 5px;
+}
+
+body {
+    background-color: firebrick
+}
+nav ul {
+    list-style: none;
+    display: flex;
+    justify-content: space-around;
+    width: 50%;
+
+}
+nav a {
+    text-decoration: none;
+    color: black;
+    
+}
+nav {
+    display:flex;
+    justify-content: flex-end;
+}
+.earth {
+    background-image: url(https://i0.wp.com/birchtree.me/wp-content/uploads/2017/03/mass-effect-andromeda-2.jpg?resize=1125%2C2000&ssl=1);
+}
+h1 {
+    color: black;
+    font-size: 40px;
+    border: solid 11px black;
+    border-radius: 20px;
+    font-style: italic;
+    width: 21vw;
+}
+p {
+    font-size: 20px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.front {
+    border: solid 11px black;
+    background-color: white;
+}
+.heart {
+    color: black;
+    font-size: 40px;
+    border: solid 11px black;
+    border-radius: 20px;
+    font-style: italic;
+    width: 21vw;
+}
+.changeColor {
+    color: white
+}
+.candidate {
+    text-decoration: underline;
+}
+.red {
+    background-color: firebrick;
+}
+#hide {
+    color: rgb(rgb(175, 35, 35), rgb(212, 71, 5), rgb(198, 198, 221));
+}
+.vanish {
+    display: none;
+}
+table {
+    border-width:1px; 
+    border-style:solid; 
+    border-color:black;
+    width:50%;
+    }
+td { 
+    border-width:1px;
+    border-style:solid; 
+    border-color: grey;
+    width:50%;
+    }
+.strong {
+    font-weight: bold;
+    color: goldenrod;
+}
+.logo {
+    display: flex;
+}
+.deco {
+    text-decoration: none;
+    color: whitesmoke;
+}
